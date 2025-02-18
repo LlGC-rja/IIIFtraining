@@ -1,0 +1,151 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://LlGC-rja.github.io/IIIFtraining/manifests/manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "[Click to edit label]",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://414b00db-2791-48aa-8c54-22ac44c9de9a",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://86ed2854-1cc9-4175-b834-7cadfc6ffbec",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 4791,
+      "width" : 3304,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://56274ca6-2695-4b1c-8af1-2c6cacd75df7",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://damsssl.llgc.org.uk/iiif/2.0/image/4643233/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://damsssl.llgc.org.uk/iiif/2.0/image/4643233",
+            "profile" : [ "http://iiif.io/api/image/2/level1.json", {
+              "formats" : [ "jpg", "png", "webp" ],
+              "qualities" : [ "native", "color", "gray", "bitonal" ],
+              "supports" : [ "regionByPct", "regionSquare", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "sizeUpscaling", "rotationBy90s", "mirroring" ],
+              "maxWidth" : 1200,
+              "maxHeight" : 1200
+            } ]
+          },
+          "height" : 4791,
+          "width" : 3304
+        },
+        "on" : "http://86ed2854-1cc9-4175-b834-7cadfc6ffbec"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://69144216-2bb3-4825-b037-409f0fe2be45",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 4342,
+      "width" : 3646,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://1ad67aa1-e271-4902-855c-48ad620a4638",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://damsssl.llgc.org.uk/iiif/2.0/image/4400130/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://damsssl.llgc.org.uk/iiif/2.0/image/4400130",
+            "profile" : [ "http://iiif.io/api/image/2/level1.json", {
+              "formats" : [ "jpg", "png", "webp" ],
+              "qualities" : [ "native", "color", "gray", "bitonal" ],
+              "supports" : [ "regionByPct", "regionSquare", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "sizeUpscaling", "rotationBy90s", "mirroring" ],
+              "maxWidth" : 1200,
+              "maxHeight" : 1200
+            } ]
+          },
+          "height" : 4342,
+          "width" : 3646
+        },
+        "on" : "http://69144216-2bb3-4825-b037-409f0fe2be45"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://bf6112ca-2819-461f-aaef-65c23c185e10",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 3918,
+      "width" : 2988,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://cc5e9cc7-82a1-4f5d-bf88-878104ef44cf",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://damsssl.llgc.org.uk/iiif/2.0/image/4396686/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://damsssl.llgc.org.uk/iiif/2.0/image/4396686",
+            "profile" : [ "http://iiif.io/api/image/2/level1.json", {
+              "formats" : [ "jpg", "png", "webp" ],
+              "qualities" : [ "native", "color", "gray", "bitonal" ],
+              "supports" : [ "regionByPct", "regionSquare", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "sizeUpscaling", "rotationBy90s", "mirroring" ],
+              "maxWidth" : 1200,
+              "maxHeight" : 1200
+            } ]
+          },
+          "height" : 3918,
+          "width" : 2988
+        },
+        "on" : "http://bf6112ca-2819-461f-aaef-65c23c185e10"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://c3fca154-54e3-425a-8798-24ea2700c8fa",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 3244,
+      "width" : 2474,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://40e50802-3aea-4afb-9a13-f6b7607d9e55",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://damsssl.llgc.org.uk/iiif/2.0/image/4387126/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://damsssl.llgc.org.uk/iiif/2.0/image/4387126",
+            "profile" : [ "http://iiif.io/api/image/2/level1.json", {
+              "formats" : [ "jpg", "png", "webp" ],
+              "qualities" : [ "native", "color", "gray", "bitonal" ],
+              "supports" : [ "regionByPct", "regionSquare", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "sizeUpscaling", "rotationBy90s", "mirroring" ],
+              "maxWidth" : 1200,
+              "maxHeight" : 1200
+            } ]
+          },
+          "height" : 3244,
+          "width" : 2474
+        },
+        "on" : "http://c3fca154-54e3-425a-8798-24ea2700c8fa"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
