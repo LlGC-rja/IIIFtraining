@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://LlGC-rja.github.io/IIIFtraining/manifests/manifest.json",
     "label" : "[Click to edit label]"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://LlGC-rja.github.io/IIIFtraining/manifests/manifest1.json",
+    "label" : "Decorated manuscripts at NLW"
   } ]
 }
