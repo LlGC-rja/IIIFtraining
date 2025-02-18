@@ -1,0 +1,13 @@
+{
+  "id" : "https://LlGC-rja.github.io/IIIFtraining/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in LlGC-rja/IIIFtraining project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://LlGC-rja.github.io/IIIFtraining/manifests/manifest.json",
+    "label" : "[Click to edit label]"
+  } ]
+}
